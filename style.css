@@ -82,11 +82,7 @@ button.create {
     border-radius: 4px;
     transition: all 0.3s ease;
     font-size: 14px;
-    font-weight: 500;
-}
-
-button.create:hover {
-    background-color: rgba(26, 115, 232, 0.1);
+    font-weight: 500px;
 }
 
 .next {
@@ -121,4 +117,5 @@ button.create:hover {
 .forgotLink{
     color: rgb(26, 115, 232);
     float: right;
+
 }
