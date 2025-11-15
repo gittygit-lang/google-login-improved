@@ -13,6 +13,7 @@
     backdrop-filter: blur(10px);
     box-shadow: inset rgba(255, 255, 255, 0.5)  10px 10px 20px 10px;
     height: 200%;
+    max-width: 100px
 }
 
 body {
@@ -119,3 +120,4 @@ button.create {
     float: right;
 
 }
+
